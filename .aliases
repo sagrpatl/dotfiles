@@ -1,1 +1,2 @@
 alias ls='ls -a --color=tty'
+alias cat='bat --paging=never -p'
