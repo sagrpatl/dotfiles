@@ -27,6 +27,7 @@ fi
 
 # Global
 alias vim=nvim
+alias ls='ls -a'
 
 
 # Set name of the theme to load --- if set to "random", it will
